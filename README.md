@@ -14,7 +14,7 @@ MVVM Architecture: Implement a clean and structured codebase following the MVVM 
 # Getting Started
 1. Clone the repository:
   ```
-  git clone <repository-url>
+  git clone https://github.com/sahilsingh97/ToDo-List-Realm-Eureka.git
   ```
 2. Install the cocoapods dependency
   ```
