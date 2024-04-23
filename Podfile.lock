@@ -1,0 +1,26 @@
+PODS:
+  - Eureka (5.4.0)
+  - Realm (10.49.1):
+    - Realm/Headers (= 10.49.1)
+  - Realm/Headers (10.49.1)
+  - RealmSwift (10.49.1):
+    - Realm (= 10.49.1)
+
+DEPENDENCIES:
+  - Eureka (~> 5.4.0)
+  - RealmSwift (~> 10.1)
+
+SPEC REPOS:
+  trunk:
+    - Eureka
+    - Realm
+    - RealmSwift
+
+SPEC CHECKSUMS:
+  Eureka: fadaa9fa3d6e402d3c60f78f24edf3d7bafc9c29
+  Realm: 1fab4a224fd7a294eca142a0efe8b54546290fbf
+  RealmSwift: 7c3a9c001161eb01b96b171ad965a9c498b962b0
+
+PODFILE CHECKSUM: 6f8f03d1addbb1eec5917098cc6ee67e40015e0a
+
+COCOAPODS: 1.15.2
